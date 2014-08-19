@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(num) contains correct number[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains combined elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff function[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter function[0m[0m
+[0m[[0minfo[0m] [0m[32m- foreach function[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists function[0m[0m
+[0m[[0minfo[0m] [0m[32m- map test[0m[0m
